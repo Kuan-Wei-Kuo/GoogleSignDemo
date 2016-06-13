@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217668016030",
+    "project_id": "black-resource-134123"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217668016030:android:f373c02fae6c0dbb",
+        "android_client_info": {
+          "package_name": "com.kuo.googlesigndemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217668016030-n0b0k1ep4ancstceopsfl0nnkd4qllm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuo.googlesigndemo",
+            "certificate_hash": "AF0800A8A2A028420F4F484ECF83FEFC661991E5"
+          }
+        },
+        {
+          "client_id": "217668016030-ocnannjofvhnss4mi5n1ka8qepc8glbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSH8Lp36mMsEbiSr0KzIWQ0IIH6VU5ewY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
